@@ -1,2 +1,2 @@
 # myCV
-Mi curriculum viatae
+Hola, soy Iraitz
