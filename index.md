@@ -1,6 +1,6 @@
 HOLA! Este es mi curriculum, también contaré alguna característica sobre mi! Espero que os guste.
 
-_NOMBRES Y APELLIDOS_
+*NOMBRES Y APELLIDOS*
 
 -Iraitz Ibero Orradre
 -Nacido en Pamplona el año 2002 el 21 de Agosto
