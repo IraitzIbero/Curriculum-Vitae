@@ -8,8 +8,8 @@ HOLA! Este es mi curriculum, también contaré alguna característica sobre mi! 
 *TÍTULOS*
 
 -ESO
--Bachillerato
--C1 Euskera
+-*[Bachillerato]^*
+-*[C1 Euskera]*
 
 *EXPERIENCIA LABORAL*
 
@@ -17,4 +17,4 @@ HOLA! Este es mi curriculum, también contaré alguna característica sobre mi! 
 
 -Aun así he colaborado durante la pandemia con los servicios de salud (llevando comida al personal hospitalario, colocando las medicinas que ellos necesitan,...)
 
-*# Características#*
+*CARACTERÍSTICAS SOBRE MI*
