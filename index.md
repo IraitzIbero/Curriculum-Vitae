@@ -8,8 +8,8 @@ HOLA! Este es mi curriculum, también contaré alguna característica sobre mi! 
 *TÍTULOS*
 
 -ESO
--*[Bachillerato]^*
--*[C1 Euskera]*
+-Bachillerato
+-C1 Euskera
 
 *EXPERIENCIA LABORAL*
 
@@ -18,3 +18,12 @@ HOLA! Este es mi curriculum, también contaré alguna característica sobre mi! 
 -Aun así he colaborado durante la pandemia con los servicios de salud (llevando comida al personal hospitalario, colocando las medicinas que ellos necesitan,...)
 
 *CARACTERÍSTICAS SOBRE MI*
+- Trabajo bastante en cosas en la que me gustan e interesan
+- Soy mi puntual, no me gusta llegar tarde a los sitios
+- Soy muy sociable, no me cuesta nada relacionarme con la gente
+- Soy capaz de adaptarme a la situación que haga falta en el momento
+- Tengo bastante conocimiento programando
+- Me gusta mucho hacer deporte (balonmano, triatlón)
+
+*PARA CONTACTAR CON MIGO...*
+CORREO ELECTRONICO: iiberoorra1@educacion.navarra.es
